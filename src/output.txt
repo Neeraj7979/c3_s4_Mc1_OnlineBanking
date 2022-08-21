@@ -1,0 +1,10 @@
+Customer Name : Neeraj kumar
+Customer Account Number : 7315782862756
+Current Balance : 5678903.0
+Account Status : true
+Enter the amount to credit from account
+500
+Your account is credited by500.0The available balance is5678403.0
+Enter the amount to credit from account
+600
+Your account is credited by600.0The available balance is5677803.0
